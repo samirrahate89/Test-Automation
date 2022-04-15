@@ -14,7 +14,7 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-    @Test(enabled=true)
+    @Test(enabled=true, alwaysRun=true)
     public void shouldAnswerWithTrue()
     {
     	System.setProperty("webdriver.chrome.driver", "C:\\Users\\gkerk\\Desktop\\ATT-Build-and-Plan with parallel\\src\\main\\Resources\\Drivers\\chromedriver.exe");
