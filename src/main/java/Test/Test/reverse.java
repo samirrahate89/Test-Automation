@@ -12,7 +12,7 @@ public class reverse {
 			reverse=ch+reverse;
 		}
 		
-		System.out.println("Reversed String is :"+ reverse);
+		System.out.print("Reversed String is :"+ reverse);
 		//Added new block of code
 	}
 	//adding few more lines of code
