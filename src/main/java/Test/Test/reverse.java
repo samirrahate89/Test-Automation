@@ -13,6 +13,7 @@ public class reverse {
 		}
 		
 		System.out.println("Reversed String is :"+ reverse);
+		System.out.println();
 		//Added new block of code
 	}
 	//adding few more lines of code
